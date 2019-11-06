@@ -4,6 +4,15 @@ This free consulting project helps you process Word document with page splitter 
 
 #Screenshots
 
+This is the problematic input word document containing extra section breaks 
+
+![problematic output](https://user-images.githubusercontent.com/1214951/68274359-b88da980-008a-11ea-9c25-a196e8f8084b.png)
+
+This is the fixed output word document without extra section breaks
+
+![fixed output](https://user-images.githubusercontent.com/1214951/68274357-b7f51300-008a-11ea-958e-ce3b591ffe4e.png)
+
+
 
 ## Interested in Aspose free consulting project?
 [If you are also interested in a free consulting project by Aspose team then please view details on this page](https://aspose-free-consulting.github.io/)
