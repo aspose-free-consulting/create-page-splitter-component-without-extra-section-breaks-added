@@ -1,6 +1,27 @@
 # Create Page Splitter Component without Extra Section Breaks Added
 
-This free consulting project helps you process Word document with page splitter utility and helps remove extra section breaks.
+This free consulting project helps you process Word document with page splitter utility and helps remove extra section breaks. This project helps you to split Word document's pages into separate documents. It splits a document into multiple sections so that each page begins and ends at a section boundary.
+
+#How to Run the Project
+
+* You can either clone the repository using your favorite GitHub client or download the ZIP file
+* Extract the contents of the ZIP file to any folder on your computer
+* The project is created in Visual Studio 2017
+*	Open the solution file in Visual Studio and build the project
+*	On the first run, the dependencies will automatically be downloaded via NuGet
+*	Get the temporary license and put it in Debug folder
+*	Run the project, and give full path input document, start and end page numbers
+
+
+# Limitation of PageSplitter
+
+This project inserts the section break at the end of each page. So, in some cases section break pushes the last line of page to next page. 
+
+# Fixes in this project
+
+* This utility threw an exception when customer’s document is processed through it. This issue has been fixed.
+* Added code to remove extra empty pages/sections from the document. See the following screenshots.
+
 
 #Screenshots
 
