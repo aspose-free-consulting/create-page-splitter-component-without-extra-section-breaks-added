@@ -1,6 +1,6 @@
 # Create Page Splitter Component without Extra Section Breaks Added
 
-This [free consulting project](https://aspose-free-consulting.github.io/) helps you [process Word document using Aspose.Words](https://products.aspose.com/words) with [page splitter utility and helps remove extra section breaks](https://docs.aspose.com/display/wordsnet/Working+with+Sections). This project helps you to split Word document's pages into separate documents. It splits a document into multiple sections so that each page begins and ends at a section boundary.
+This [free consulting project](https://aspose-free-consulting.github.io/) helps you [process Word document using Aspose.Words](https://products.aspose.com/words) with [page splitter utility and helps remove extra section breaks](https://docs.aspose.com/display/wordsnet/Working+with+Sections). This project helps you to [split Word document's pages into separate documents](https://github.com/aspose-free-consulting/create-page-splitter-component-without-extra-section-breaks-added/blob/master/PageSplitter/PageSplitter.cs). It splits a document into multiple sections so that each page begins and ends at a section boundary.
 
 #How to Run the Project
 
@@ -9,7 +9,7 @@ This [free consulting project](https://aspose-free-consulting.github.io/) helps 
 * The project is created in Visual Studio 2017
 *	Open the solution file in Visual Studio and build the project
 *	On the first run, the dependencies will automatically be downloaded via NuGet
-*	Get the temporary license and put it in Debug folder
+*	[Get the temporary license](https://purchase.aspose.com/temporary-license) and put it in Debug folder
 *	Run the project, and give full path input document, start and end page numbers
 
 
