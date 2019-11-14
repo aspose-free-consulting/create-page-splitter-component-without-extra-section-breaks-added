@@ -2,7 +2,7 @@
 
 This [free consulting project](https://aspose-free-consulting.github.io/) helps you [process Word document using Aspose.Words](https://products.aspose.com/words) with [page splitter utility and helps remove extra section breaks](https://docs.aspose.com/display/wordsnet/Working+with+Sections). This project helps you to [split Word document's pages into separate documents](https://github.com/aspose-free-consulting/create-page-splitter-component-without-extra-section-breaks-added/blob/master/PageSplitter/PageSplitter.cs). It splits a document into multiple sections so that each page begins and ends at a section boundary.
 
-#How to Run the Project
+# How to Run the Project
 
 * You can either clone the repository using your favorite GitHub client or download the ZIP file
 * Extract the contents of the ZIP file to any folder on your computer
@@ -23,7 +23,7 @@ This project inserts the section break at the end of each page. So, in some case
 * Added code to remove extra empty pages/sections from the document. See the following screenshots.
 
 
-#Screenshots
+# Screenshots
 
 This is the problematic input word document containing extra section breaks 
 
